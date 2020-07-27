@@ -1,5 +1,5 @@
 
-Je m'appelle Franck Roth et je suis développeur web junior ! 💻
+Je m'appel Franck Roth et je suis développeur web junior ! 💻
 
 🔭 Je suis actuellement en formation au sein de la Wild Code School jusqu'au 31 juillet 2020 puis en stage chez Prosoon jusqu'au 4 Décembre 2020.
 
